@@ -1,10 +1,10 @@
 ---
 applications:
-- name: kimilguk-egovadmin
+- name: jihye-egovadmin
   memory: 512M
-  host: kimilguk-egovadmin
+  host: jihye-egovadmin
   domain: paas-ta.org
   services:
-  - kimilguk-egov-db
+  - jihye-egov-db
   instances: 1
   disk_quota: 512M
